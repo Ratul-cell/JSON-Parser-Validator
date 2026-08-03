@@ -1,0 +1,11 @@
+{
+  "name": "Ada Lovelace",
+  "born": 1815,
+  "active": true,
+  "notes": null,
+  "skills": ["mathematics", "analytical engines"],
+  "address": {
+    "city": "London",
+    "country": "UK"
+  }
+}
